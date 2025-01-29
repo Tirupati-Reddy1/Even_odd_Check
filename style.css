@@ -1,0 +1,27 @@
+#main_div{
+    border: 2px solid;
+    width: 280px;
+    height: 350px;
+    margin: auto;
+    background-color:rgb(239, 230, 242);
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 0 40px black;
+    margin-top: 40px;
+}
+#ip{
+    margin-top: 40px;
+    margin-left: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+body{
+    background-color: rgb(255, 237, 240);
+}
+#display{
+    margin-top: 50px;
+    
+    margin-left: 50px;
+}
+
